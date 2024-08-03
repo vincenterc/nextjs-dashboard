@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Use Next.js to create the [Dashboard][] application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+[Dashboard]: https://nextjs-dashboard-lake-eta-42.vercel.app/
